@@ -7,6 +7,7 @@
 ## Requirements
 
 Python 2.4 or higher
+
 difflib (* come with Anaconda)
 
 ## Installation
